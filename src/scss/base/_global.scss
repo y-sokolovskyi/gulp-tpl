@@ -1,0 +1,16 @@
+@import "../utils/vars";
+
+button,
+a {
+  border: 0;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.container {
+  width: 100%;
+  max-width: $maxWidth;
+  margin: 0 auto;
+  padding: 0 $containerPadding;
+  background-color: red;
+}

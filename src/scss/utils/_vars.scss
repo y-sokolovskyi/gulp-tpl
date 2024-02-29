@@ -1,0 +1,22 @@
+/* SERVICE VARS */
+$containerPaddingNum: 75;
+$maxWidthNum: 1440;
+
+/* COLORS */
+$whiteColor: #fff;
+$blackColor: #000;
+
+/* GLOBAL */
+$maxWidth: $maxWidthNum + ($containerPaddingNum * 2) + px;
+$containerPadding: $containerPaddingNum + px;
+
+/* OTHER */
+$opacityHover: 0.75;
+$transition: all ease 0.15s;
+$imgPath: "../img/";
+$fontPath: "../fonts/";
+
+/* PROJECT SETTINGS */
+$globalBgLight: $whiteColor;
+$globalLineHeight: 1.45;
+$globalFont: sans-serif;
